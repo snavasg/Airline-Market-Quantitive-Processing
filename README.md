@@ -1,5 +1,5 @@
-# Airline-Market-Quantitive-Processing
-On this Repository we could found all codes of the paper called "Competition and intertemporal price discrimination in the colombian air market". A brief introduction is presented below:
+# Colombian Air Market Data Processing
+On this Repository we could found all data processing codes of the paper called "Competition and intertemporal price discrimination in the colombian air market". A brief introduction is presented below:
 
 As economic theory shows, there is a clear negative relationship between competition and prices, regardless of the market structure. The airline industry is no stranger to this relationship; this sector is quite different. First, given the cost structure of airlines, this sector is characterized by having few suppliers. Second, in this industry, inventories are entirely perishables because, once the flight takes place, an airline cannot sell any unoccupied seats. Third, consumers can buy the good in advance in different periods at different price levels. These features of the market allow for the existence of intertemporal price discrimination, which is defined as the ability of a firm to charge different prices at different moments. Usually, the extent of price discrimination will depend on the degree of competition between firms in one market. Furthermore, this degree of competition will affect the market equilibrium for the inputs used in producing such a good or service. 
 
