@@ -1,0 +1,11 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)
+VARIABLES	N	mean	median	min	max	sd	N	mean	median	min	max	sd	N	mean	median	min	max	sd
+																		
+HHI													836	0.438	0.438	0.257	0.913	0.126
+leg_count							71	3.366	3.366	2	6	1.072						
+NumerodeVuelos	2,725	82.58	82.58	1	592	96.00												
+PasajerosABordo	2,725	11,384	11,384	18	90,477	13,714												
+SillasOfrecidas	2,725	13,879	13,879	140	98,156	16,208												
+LF	2,725	0.801	0.801	0.0957	0.985	0.109												
+ms	2,725	0.356	0.356	0.00532	1	0.252												
+																		
